@@ -1,7 +1,5 @@
 Forrest Frank
-<<<<<<< HEAD
 ACDC
-=======
 David Gordon
 
->>>>>>> 603a40c84b2e868922c11e9a7a4478f42057895f
+
